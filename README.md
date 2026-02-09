@@ -133,6 +133,7 @@ Achieved reliable classification performance
 
 Output:
 
+<img width="976" height="735" alt="Image" src="https://github.com/user-attachments/assets/b87d2427-e6e8-4d5b-9cb9-d9a716cf00ff" />
 
 📌 Conclusion
 
